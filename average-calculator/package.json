@@ -1,1 +1,18 @@
 
+{
+  "name": "average-calculator",
+  "version": "1.0.0",
+  "description": "Average calculator microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2", // Or the latest version
+    "axios": "^1.6.0" // Or the latest version
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
