@@ -8,8 +8,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2", // Or the latest version
-    "axios": "^1.6.0" // Or the latest version
+    "express": "^4.18.2", 
+    "axios": "^1.6.0" 
   },
   "devDependencies": {},
   "keywords": [],
